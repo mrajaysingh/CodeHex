@@ -10,11 +10,11 @@ const siteMetadata = {
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
     email: 'coderxajay@gmail.com', 
-    github: 'https://github.com/codewarrior89',
+    github: 'https://github.com/mrpraveenkumar',
     twitter: 'https://twitter.com/',
     facebook: 'https://facebook.com',
     youtube: 'https://youtube.com/',
-    linkedin: 'https://www.linkedin.com/in/k-ajaysingh/',
+    linkedin: 'https://www.linkedin.com/in/mr-praveenkumar/',
     dribbble: 'https://www.dribbble.com',
     locale: 'en-US',
   }
